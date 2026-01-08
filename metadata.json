@@ -1,0 +1,7 @@
+{
+  "name": "Sakartvelo Explorer - Georgia Trip Planner",
+  "description": "A premium, fully editable multi-traveler itinerary planner for exploring Georgia, featuring interactive mapping, expense tracking, and collaborative scheduling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
